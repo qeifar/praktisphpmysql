@@ -8,7 +8,11 @@ https://legoom.biz.my/praktisphpmysql/
 https://biasiswa.legoom.biz.my/
 
 
+
 Mari join
 Khairul Azlan hadir
 Comment wont be seen
 <!-- Khairul Azlan hadir!->
+Let's Join me in PARC Programme
+versi-afiqah
+Ohaiyoo Watashi wa Afiqah desu
