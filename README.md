@@ -1,5 +1,16 @@
-Hello Ramadan!
+# praktisphpmysql
+ Satu platform demo ringkas untuk rujukan Basic PHP
 
-Selamat menyambut bulan puasa.
+# Demo
+https://legoom.biz.my/praktisphpmysql/
 
--MFMZ
+# Belajar Koding Kemasukan Mei dan September 2021
+https://biasiswa.legoom.biz.my/
+
+
+
+Mari join saya ++
+Mari join
+Khairul Azlan hadir
+Comment wont be seen
+<!-- Khairul Azlan hadir!->
